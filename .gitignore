@@ -1,0 +1,17 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+*.log
+TestResults/
+publish/
+
+## Segredos: NUNCA versionar credenciais do Oracle
+appsettings.Development.json
+appsettings.Local.json
+*.secrets.json
+.env
