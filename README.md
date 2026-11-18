@@ -14,8 +14,8 @@ Disciplina: **Advanced Business Development with .NET** — FIAP.
 | Guilherme Eustáquio | 566784 | 2TDSPS |
 | Matheus Tavares     | 566844 | 2TDSPS |
 
-- **Repositório:** <!-- TODO(VOCÊ): link do repositório .NET no GitHub --> (preencher)
-- **Vídeo (até 5 min):** <!-- TODO(VOCÊ): link do YouTube --> (preencher)
+- **Repositório:** https://github.com/caioccouto/FindMe-GlobalSoulution-DotNet.git
+- **Vídeo:** <!-- TODO(VOCÊ): link do YouTube --> (preencher)
 
 ## Descrição da solução
 
@@ -24,7 +24,7 @@ uma validação interna (um **moderador**) e só então um **alerta público** �
 necessários para a comunidade ajudar (nome, idade, data do desaparecimento e um texto público definido pelo moderador).
 Dados sensíveis (responsável, telefone, descrição privada e última localização) **nunca** aparecem no alerta.
 
-**Relação com as outras entregas:** <!-- TODO(VOCÊ): ajuste conforme o que o grupo fez em Mobile e DevOps -->
+**Relação com as outras entregas:** 
 esta API é o back-end consumido pelo app Mobile (cadastro de casos e feed de alertas) e é a aplicação empacotada em
 container na entrega de DevOps (a connection string entra por variável de ambiente `ConnectionStrings__Oracle`).
 
