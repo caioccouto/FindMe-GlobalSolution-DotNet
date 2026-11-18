@@ -15,7 +15,7 @@ Disciplina: **Advanced Business Development with .NET** — FIAP.
 | Matheus Tavares     | 566844 | 2TDSPS |
 
 - **Repositório:** https://github.com/caioccouto/FindMe-GlobalSoulution-DotNet.git
-- **Vídeo:** <!-- TODO(VOCÊ): link do YouTube --> (preencher)
+- **Vídeo:** https://youtu.be/BMBAuRosa-g
 
 ## Descrição da solução
 
